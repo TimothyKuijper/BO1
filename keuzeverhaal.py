@@ -170,7 +170,9 @@ Your parents are in the Netherlands now and your friends are also starting to ge
                                                             time.sleep(7)
 
                                                             print("YOU DID IT!!")
+                                                            time.sleep(1.5)
                                                             print("congratulations, you won the game, you got the good ending")
+                                                            time.sleep(1.5)
                                                             print("there are actualy 4 more endings, can you get them all?")
                                                             time.sleep(10)
                                                             quit()
@@ -184,9 +186,13 @@ Your parents will come to Netherlands and buy a house together.
                                                             """)
 
                                                             print("euyyy, you beat the game")
+                                                            time.sleep(1.5)
                                                             print("well you didnt get the intended ending")
+                                                            time.sleep(1.5)
                                                             print("but atleast you got a good one")
+                                                            time.sleep(1.5)
                                                             print("congrats")
+                                                            time.sleep(1.5)
                                                             print("there are actualy 4 more endings, can you get them all?")
                                                             time.sleep(10)
                                                             quit()  
@@ -206,7 +212,9 @@ You cant keep this up for long though. Not much later you get sick and die on th
                                                     time.sleep(7)
 
                                                     print("ohw, you really messed up didn`t you?")
+                                                    time.sleep(1.5)
                                                     print("well i guess thats one way to do it")
+                                                    time.sleep(1.5)
                                                     print("you lost")
                                                     time.sleep(1)
                                                     print("there are actualy 4 more endings, can you get them all?")
@@ -266,7 +274,9 @@ Your parents are in the Netherlands now and your friends are also starting to ge
                                                             time.sleep(10)
 
                                                             print("YOU DID IT!!")
+                                                            time.sleep(1.5)
                                                             print("congratulations, you won the game, you got the good ending")
+                                                            time.sleep(1.5)
                                                             print("there are actualy 4 more endings, can you get them all?")
                                                             time.sleep(10)
                                                             quit()
@@ -281,9 +291,13 @@ Your parents will come to Netherlands and buy a house together.
                                                             """)
 
                                                             print("euyyy, you beat the game")
+                                                            time.sleep(1.5)
                                                             print("well you didnt get the intended ending")
+                                                            time.sleep(1.5)
                                                             print("but atleast you got a good one")
+                                                            time.sleep(1.5)
                                                             print("congrats")
+                                                            time.sleep(1.5)
                                                             print("there are actualy 4 more endings, can you get them all?")
                                                             time.sleep(10)
                                                             quit()
@@ -295,9 +309,7 @@ Your parents will come to Netherlands and buy a house together.
                                 else:
                                     continue            
                         else:
-                            continue                
-                else:
-                    continue    
+                            continue 
 
                 # tekst 2
                 if q1 == "B":
@@ -425,7 +437,9 @@ Your parents are in the Netherlands now and your friends are also starting to ge
                                                                     time.sleep(7)
 
                                                                     print("YOU DID IT!!")
+                                                                    time.sleep(1.5)
                                                                     print("congratulations, you won the game, you got the good ending")
+                                                                    time.sleep(1.5)
                                                                     print("there are actualy 4 more endings, can you get them all?")
                                                                     time.sleep(10)
                                                                     quit()
@@ -439,9 +453,13 @@ Your parents will come to Netherlands and buy a house together.
                                                                     """)
 
                                                                     print("euyyy, you beat the game")
+                                                                    time.sleep(1.5)
                                                                     print("well you didnt get the intended ending")
+                                                                    time.sleep(1.5)
                                                                     print("but atleast you got a good one")
+                                                                    time.sleep(1.5)
                                                                     print("congrats")
+                                                                    time.sleep(1.5)
                                                                     print("there are actualy 4 more endings, can you get them all?")
                                                                     time.sleep(10)
                                                                     quit()
@@ -459,7 +477,9 @@ You cant keep this up for long though. Not much later you get sick and die on th
                                                             time.sleep(7)
 
                                                             print("ohw, you really messed up didn`t you?")
+                                                            time.sleep(1.5)
                                                             print("well i guess thats one way to do it")
+                                                            time.sleep(1.5)
                                                             print("you lost")
                                                             time.sleep(1)
                                                             print("there are actualy 4 more endings, can you get them all?")
@@ -514,7 +534,9 @@ Your parents are in the Netherlands now and your friends are also starting to ge
                                                                     time.sleep(10)
 
                                                                     print("YOU DID IT!!")
+                                                                    time.sleep(1.5)
                                                                     print("congratulations, you won the game, you got the good ending")
+                                                                    time.sleep(1.5)
                                                                     print("there are actualy 4 more endings, can you get them all?")
                                                                     time.sleep(10)
                                                                     quit()
@@ -528,9 +550,13 @@ Your parents will come to Netherlands and buy a house together.
                                                                     """)
 
                                                                     print("euyyy, you beat the game")
+                                                                    time.sleep(1.5)
                                                                     print("well you didnt get the intended ending")
+                                                                    time.sleep(1.5)
                                                                     print("but atleast you got a good one")
+                                                                    time.sleep(1.5)
                                                                     print("congrats")
+                                                                    time.sleep(1.5)
                                                                     print("there are actualy 4 more endings, can you get them all?")
                                                                     time.sleep(10)
                                                                     quit()
@@ -603,7 +629,9 @@ your parents are in the Netherlands now and your friends are also starting to ge
                                                             time.sleep(10)
 
                                                             print("YOU DID IT!!")
+                                                            time.sleep(1.5)
                                                             print("congratulations, you won the game, you got the good ending")
+                                                            time.sleep(1.5)
                                                             print("there are actualy 4 more endings, can you get them all?")
                                                             time.sleep(10)
                                                             quit()
@@ -617,9 +645,13 @@ Your parents will come to Netherlands and buy a house together.
                                                             """)
 
                                                             print("euyyy, you beat the game")
+                                                            time.sleep(1.5)
                                                             print("well you didnt get the intended ending")
+                                                            time.sleep(1.5)
                                                             print("but atleast you got a good one")
+                                                            time.sleep(1.5)
                                                             print("congrats")
+                                                            time.sleep(1.5)
                                                             print("there are actualy 4 more endings, can you get them all?")
                                                             time.sleep(10)
                                                             quit()
@@ -724,7 +756,9 @@ Your parents are in the Netherlands now and your friends are also starting to ge
                                                             time.sleep(7)
 
                                                             print("YOU DID IT!!")
+                                                            time.sleep(1.5)
                                                             print("congratulations, you won the game, you got the good ending")
+                                                            time.sleep(1.5)
                                                             print("there are actualy 4 more endings, can you get them all?")
                                                             time.sleep(10)
                                                             quit()
@@ -738,9 +772,13 @@ Your parents will come to Netherlands and buy a house together.
                                                             """)
 
                                                             print("euyyy, you beat the game")
+                                                            time.sleep(1.5)
                                                             print("well you didnt get the intended ending")
+                                                            time.sleep(1.5)
                                                             print("but atleast you got a good one")
+                                                            time.sleep(1.5)
                                                             print("congrats")
+                                                            time.sleep(1.5)
                                                             print("there are actualy 4 more endings, can you get them all?")
                                                             time.sleep(10)
                                                             quit()
@@ -758,7 +796,9 @@ You cant keep this up for long though. Not much later you get sick and die on th
                                                     time.sleep(7)
 
                                                     print("ohw, you really messed up didn`t you?")
+                                                    time.sleep(1.5)
                                                     print("well i guess thats one way to do it")
+                                                    time.sleep(1.5)
                                                     print("you lost")
                                                     time.sleep(1)
                                                     print("there are actualy 4 more endings, can you get them all?")
@@ -857,7 +897,9 @@ Your parents are in the Netherlands now and your friends are also starting to ge
                                                                     time.sleep(7)
 
                                                                     print("YOU DID IT!!")
+                                                                    time.sleep(1.5)
                                                                     print("congratulations, you won the game, you got the good ending")
+                                                                    time.sleep(1.5)
                                                                     print("there are actualy 4 more endings, can you get them all?")
                                                                     time.sleep(10)
                                                                     quit()
@@ -871,9 +913,13 @@ Your parents will come to Netherlands and buy a house together.
                                                                     """)
 
                                                                     print("euyyy, you beat the game")
+                                                                    time.sleep(1.5)
                                                                     print("well you didnt get the intended ending")
+                                                                    time.sleep(1.5)
                                                                     print("but atleast you got a good one")
+                                                                    time.sleep(1.5)
                                                                     print("congrats")
+                                                                    time.sleep(1.5)
                                                                     print("there are actualy 4 more endings, can you get them all?")
                                                                     time.sleep(10)
                                                                     quit()
@@ -891,7 +937,9 @@ You cant keep this up for long though. Not much later you get sick and die on th
                                                             time.sleep(7)
 
                                                             print("ohw, you really messed up didn`t you?")
+                                                            time.sleep(1.5)
                                                             print("well i guess thats one way to do it")
+                                                            time.sleep(1.5)
                                                             print("you lost")
                                                             time.sleep(1)
                                                             print("there are actualy 4 more endings, can you get them all?")
@@ -978,7 +1026,9 @@ your parents are in the Netherlands now and your friends are also starting to ge
                                                                     time.sleep(10)
 
                                                                     print("YOU DID IT!!")
+                                                                    time.sleep(1.5)
                                                                     print("congratulations, you won the game, you got the good ending")
+                                                                    time.sleep(1.5)
                                                                     print("there are actualy 4 more endings, can you get them all?")
                                                                     time.sleep(10)
                                                                     quit()
@@ -992,9 +1042,13 @@ Your parents will come to Netherlands and buy a house together.
                                                                     """)
 
                                                                     print("euyyy, you beat the game")
+                                                                    time.sleep(1.5)
                                                                     print("well you didnt get the intended ending")
+                                                                    time.sleep(1.5)
                                                                     print("but atleast you got a good one")
+                                                                    time.sleep(1.5)
                                                                     print("congrats")
+                                                                    time.sleep(1.5)
                                                                     print("there are actualy 4 more endings, can you get them all?")
                                                                     time.sleep(10)
                                                                     quit()
@@ -1038,7 +1092,9 @@ You try to overcome them but they’re with to many and rip you apart.
                                                             """)
 
                                                             print("oof, not a nice way to go")
+                                                            time.sleep(1.5)
                                                             print("i mean you died horribly")
+                                                            time.sleep(1.5)
                                                             print("this is the worst one out there")
                                                             time.sleep(2)
                                                             print("there are actualy 4 more endings, can you get them all?")
@@ -1156,7 +1212,9 @@ Your parents are in the Netherlands now and your friends are also starting to ge
                                             time.sleep(7)
 
                                             print("YOU DID IT!!")
+                                            time.sleep(1.5)
                                             print("congratulations, you won the game, you got the good ending")
+                                            time.sleep(1.5)
                                             print("there are actualy 4 more endings, can you get them all?")
                                             time.sleep(10)
                                             quit()
@@ -1170,9 +1228,13 @@ Your parents will come to Netherlands and buy a house together.
                                         """)
 
                                             print("euyyy, you beat the game")
+                                            time.sleep(1.5)
                                             print("well you didnt get the intended ending")
+                                            time.sleep(1.5)
                                             print("but atleast you got a good one")
+                                            time.sleep(1.5)
                                             print("congrats")
+                                            time.sleep(1.5)
                                             print("there are actualy 4 more endings, can you get them all?")
                                             time.sleep(10)
                                             quit()
@@ -1190,7 +1252,9 @@ You cant keep this up for long though. Not much later you get sick and die on th
                                     time.sleep(7)
 
                                     print("ohw, you really messed up didn`t you?")
+                                    time.sleep(1.5)
                                     print("well i guess thats one way to do it")
+                                    time.sleep(1.5)
                                     print("you lost")
                                     time.sleep(1)
                                     print("there are actualy 4 more endings, can you get them all?")
@@ -1210,9 +1274,13 @@ You are shocked with what you hear and run back home. Just before you walk up yo
                     """) 
 
                     print("wow, impresive you got the fastest ending possible")
+                    time.sleep(1.5)
                     print("i mean your dead so you kinda lost")
+                    time.sleep(1.5)
                     print("but hey, at least you where fast right")
+                    time.sleep(1.5)
                     print("there are actualy 4 more endings, can you get them all?")
+                    time.sleep(10)
                     quit()
 
                 else:
